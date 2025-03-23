@@ -4,6 +4,9 @@
 
 Omer Aviv, Moshe Buchris, Rom Hirsch, Omer Pilosof
 
+## Pepar
+- [SEDD_Music](#-SEDD_Music.pdf)
+
 ## Design Choices
 
 This codebase is built modularly to promote future research (as opposed to a more compact framework, which would be better for applications). The primary files are 
