@@ -1,5 +1,9 @@
 # Generate Music Using Discrete Diffusion
 
+## Creators
+
+Omer Aviv, Moshe Buchris, Rom Hirsch, Omer Pilosof
+
 ## Design Choices
 
 This codebase is built modularly to promote future research (as opposed to a more compact framework, which would be better for applications). The primary files are 
