@@ -5,7 +5,7 @@
 Omer Aviv, Moshe Buchris, Rom Hirsch, Omer Pilosof
 
 ## Pepar
-- [SEDD_Music](#-SEDD_Music.pdf)
+[SEDD_Music](SEDD_Music.pdf)
 
 ## Design Choices
 
